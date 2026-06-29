@@ -10,7 +10,7 @@ Every AI-assisted judgment must be tied to cited evidence from the source materi
 
 ## Current Products
 
-- **Evalgist Shortlist** — AI-assisted resume screening with quoted evidence. Private beta.
+- **[Evalgist Shortlist](https://evalgist.ai/shortlist)** — AI-assisted resume screening with quoted evidence. Live.
 - **Evalgist Grade** — consistent grading support for open-ended exam answers. In development.
 
 ## Public Boundary
