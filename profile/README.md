@@ -22,4 +22,4 @@ Public code related to building evidence-grounded AI software may be published s
 ## Links
 
 - Website: [evalgist.ai](https://evalgist.ai)
-- Contact: [hello@evalgist.ai](mailto:hello@evalgist.ai)
+- Contact: [info@evalgist.ai](mailto:info@evalgist.ai)
