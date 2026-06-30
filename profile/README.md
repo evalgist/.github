@@ -17,7 +17,7 @@ Every AI-assisted judgment must be tied to cited evidence from the source materi
 
 Evalgist product code, prompts, fixtures, architecture details, screenshots, audits, and implementation findings are private company assets.
 
-Public code related to building evidence-grounded AI software may be published separately through [Pixelbrew Studio](https://github.com/pixelbrew-studio) as clean-room, generic tools.
+Generic, reusable tooling around this work is published separately through [Pixelbrew Studio](https://github.com/pixelbrew-studio).
 
 ## Links
 
